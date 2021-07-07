@@ -2,9 +2,9 @@
 """
 Created on Wed Jul  7 20:19:40 2021
 
-@author: Raihan Ihza Pravisya 
+@author: Kornelius putra goli 
 """
-NIM    : 20083000149
+NIM    : 20083000136
 
 ulang = 'y'
 while ulang == 'y':
